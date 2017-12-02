@@ -8,4 +8,4 @@ characters though it may not pick up some of the new death traits and will not b
 
 The article based on this networks can be found [here](http://anquantarbuile.com/social-networks-in-ck2) and a full list of all the networks created for this project can be found [here](https://maniacalbrain.github.io/linkurious/graphs/ck2/ck2-networks.html)
 
-![alt text](http://www.anquantarbuile.com/static/images/ck2/BattleNetworkReligion.png, "Royal Marriage Network colored by religion.")
+!["Royal Marriage Network colored by religion"](http://www.anquantarbuile.com/static/images/ck2/BattleNetworkReligion.png, )
